@@ -5,9 +5,9 @@
 ## TODO
 
 - [ x ] 경로 설정
-- [] 외부 api 가져오기
-- [] axios를 활용하여 외부 데이터 설정
+- [ x ] 외부 api 가져오기
+- [ x ] axios를 활용하여 외부 데이터 설정
 - [] useQuery로 api에 요청
 - [] UI 제작 (styled components 활용)
-- [] Helmat 설정
+- [] Helmet 설정
 - [] 배포(deploy)
